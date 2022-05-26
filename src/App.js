@@ -31,7 +31,7 @@ const App = () => {
   ]);
 
   // Add Task
-  // eslint-disable-next-line no-unused-vars
+
   const addTask = (task) => {
     const id = Math.floor(Math.random() * 10000) + 1;
     const newTask = { id, ...task };
