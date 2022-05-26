@@ -17,7 +17,8 @@ body {
   min-height: 300px;
   border: 1px solid steelblue;
   padding: 30px;
-  border-radius: 5px;
+  border-radius: 10px;
+  box-shadow: 27px 62px 17px rgb(167, 166, 166);
 }
 
 .header {
