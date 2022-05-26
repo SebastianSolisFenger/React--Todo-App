@@ -4,6 +4,7 @@
 import { useState } from 'react';
 import './index.css';
 import { Tasks } from './components/Tasks';
+import AddTask from './components/AddTask';
 
 import Header from './components/Header';
 
@@ -49,6 +50,7 @@ const App = () => {
     <div className="container">
       <>
         <Header />
+        <AddTask />
         {tasks.length > 0 ? (
           <Tasks
             tasks={tasks}
