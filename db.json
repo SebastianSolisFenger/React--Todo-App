@@ -11,6 +11,18 @@
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30 pm",
       "reminder": true
+    },
+    {
+      "text": "regreg",
+      "day": "regerg",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "loool",
+      "day": "loool",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
